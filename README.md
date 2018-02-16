@@ -15,13 +15,12 @@ expensises for everyday necesseties. We used a web application and different com
 We used GetElementbyID to get the values the users entered for each section and assign them to each variable.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://jaredzweben.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. The getElementById command retrieves the values that the user enters for each part and then assigns it to each predetermined variable.
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+2. I learned more about the git commands and what they do. I initially had trouble navigating github but this assignment helped me better my understanding.
+3. I learned how to integrate JavaScript files into HTML documents and how the interact with eachother respectively.
 
 
 
